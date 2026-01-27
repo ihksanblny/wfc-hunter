@@ -1,0 +1,170 @@
+[
+  {
+    "shop_id": "0x2dd6291d88fbf8ef:0x9148d7afe2213bad",
+    "shop_name": "Roketto Coffee & Co",
+    "latitude": "-7.9140002",
+    "longitude": "112.6053372",
+    "wifi_score": 8,
+    "socket_availability": 6,
+    "quietness": 7,
+    "coffee_quality": 9,
+    "summary": "Kafe estetik 24 jam di Malang yang sangat nyaman untuk produktivitas dengan kopi berkualitas tinggi, meskipun ketersediaan colokan listrik cukup bervariasi di beberapa area.",
+    "best_for": [
+      "Meeting",
+      "Deep Work",
+      "Nongkrong"
+    ],
+    "reviews_count": 30
+  },
+  {
+    "shop_id": "0x2dd62993cedd5b2f:0xe1d5daba3d95eb22",
+    "shop_name": "Ada Apa Dengan Kopi (AADK) Bandung Malang - Coffee & Eatery",
+    "latitude": "-7.9140002",
+    "longitude": "112.6053372",
+    "wifi_score": 9,
+    "socket_availability": 9,
+    "quietness": 7,
+    "coffee_quality": 8,
+    "summary": "Coffee shop strategis di Malang yang sangat mendukung produktivitas karena memiliki WiFi kencang, banyak stopkontak, dan fasilitas lengkap, meski cenderung sangat ramai pada jam-jam sibuk.",
+    "best_for": [
+      "Meeting",
+      "Deep Work",
+      "Nongkrong"
+    ],
+    "reviews_count": 30
+  },
+  {
+    "shop_id": "0x2dd6294c9e16c935:0x7062c4efcbe0f933",
+    "shop_name": "Niwa Garden",
+    "latitude": "-7.9476729",
+    "longitude": "112.5732105",
+    "wifi_score": 7,
+    "socket_availability": 10,
+    "quietness": 7,
+    "coffee_quality": 8,
+    "summary": "Coffee shop bertema kebun yang sejuk dengan fasilitas colokan di setiap meja dan harga sangat terjangkau, ideal untuk bekerja terutama di pagi hari.",
+    "best_for": [
+      "Deep Work",
+      "Nongkrong"
+    ],
+    "reviews_count": 30
+  },
+  {
+    "shop_id": "0x2dd629ad9c02b621:0x499e000cf2fd41c",
+    "shop_name": "Tomoro Coffee - Suhat",
+    "latitude": "-7.9475159",
+    "longitude": "112.5730552",
+    "wifi_score": 7,
+    "socket_availability": 10,
+    "quietness": 8,
+    "coffee_quality": 9,
+    "summary": "Kafe yang sangat ideal untuk produktivitas berkat ketersediaan stop kontak di hampir setiap kursi dan pelayanan ramah, meskipun stabilitas WiFi di lantai dua perlu diperhatikan.",
+    "best_for": [
+      "Deep Work",
+      "Nongkrong"
+    ],
+    "reviews_count": 30
+  },
+  {
+    "shop_id": "0x2dd629479421e2fd:0x93b041051db54eca",
+    "shop_name": "Ki.Rei Coffee and Eatery",
+    "latitude": "-7.9311744",
+    "longitude": "112.6220126",
+    "wifi_score": 9,
+    "socket_availability": 9,
+    "quietness": 8,
+    "coffee_quality": 9,
+    "summary": "Coffee shop hidden gem di Malang yang sangat kondusif untuk WFC berkat fasilitas WiFi kencang, stopkontak melimpah, dan area indoor smoking ber-AC yang nyaman.",
+    "best_for": [
+      "Meeting",
+      "Deep Work",
+      "Nongkrong"
+    ],
+    "reviews_count": 30
+  },
+  {
+    "shop_id": "0x2dd6298d53fd71fd:0x17bc31f55ca6c1cc",
+    "shop_name": "Koji space coffee",
+    "latitude": "-7.9377283",
+    "longitude": "112.6186502",
+    "wifi_score": 9,
+    "socket_availability": 7,
+    "quietness": 9,
+    "coffee_quality": 9,
+    "summary": "Coffee shop bernuansa rumahan yang sangat tenang dengan kualitas kopi premium, cocok untuk bekerja fokus tanpa gangguan bising lalu lintas.",
+    "best_for": [
+      "Deep Work",
+      "Nongkrong",
+      "Meeting"
+    ],
+    "reviews_count": 30
+  },
+  {
+    "shop_id": "0x2e78830010fb4c65:0x5f7f6f110b4c03a2",
+    "shop_name": "CW Coffee & Eatery - Tlogomas",
+    "latitude": "-7.9255344",
+    "longitude": "112.5812066",
+    "wifi_score": 8,
+    "socket_availability": 9,
+    "quietness": 4,
+    "coffee_quality": 8,
+    "summary": "Kafe 24 jam di Malang yang sangat luas dan populer untuk nugas dengan WiFi kencang serta banyak colokan, meski sering ramai dan memiliki catatan pada konsistensi pelayanan makanan.",
+    "best_for": [
+      "Meeting",
+      "Deep Work",
+      "Nongkrong"
+    ],
+    "reviews_count": 30
+  },
+  {
+    "shop_id": "0x2dd629b0e727ce43:0x679c16be04cb2e0e",
+    "shop_name": "Hindia Koffie En Eaten",
+    "latitude": "-7.9632011",
+    "longitude": "112.6203079",
+    "wifi_score": 9,
+    "socket_availability": 7,
+    "quietness": 6,
+    "coffee_quality": 8,
+    "summary": "Kafe bernuansa kolonial yang sangat mendukung produktivitas berkat WiFi stabil dan pelayanan ramah, meski pengunjung perlu memilih spot meja tertentu untuk memastikan ketersediaan colokan.",
+    "best_for": [
+      "Meeting",
+      "Deep Work",
+      "Nongkrong"
+    ],
+    "reviews_count": 30
+  },
+  {
+    "shop_id": "0x2e7883b410dcf27d:0x4b37a9fd29508ed6",
+    "shop_name": "Janimani",
+    "latitude": "-7.9601699",
+    "longitude": "112.5993007",
+    "wifi_score": 8,
+    "socket_availability": 10,
+    "quietness": 7,
+    "coffee_quality": 7,
+    "summary": "Coffee shop dengan suasana asri ala Ubud yang sangat mendukung produktivitas karena fasilitas colokan melimpah dan lingkungan yang tenang, meski volume musik terkadang terlalu kencang.",
+    "best_for": [
+      "Deep Work",
+      "Nongkrong",
+      "Meeting"
+    ],
+    "reviews_count": 28
+  },
+  {
+    "shop_id": "0x2e7883fe5a83539f:0x396d09861e4a9afb",
+    "shop_name": "Ekologie 2.0",
+    "latitude": "-7.9596386",
+    "longitude": "112.5999444",
+    "wifi_score": 9,
+    "socket_availability": 9,
+    "quietness": 8,
+    "coffee_quality": 8,
+    "summary": "Coffee shop di Malang yang sangat ramah kantong mahasiswa dengan fasilitas wifi kencang dan banyak colokan, ideal untuk produktivitas maupun sekadar berkumpul.",
+    "best_for": [
+      "Meeting",
+      "Deep Work",
+      "Nongkrong"
+    ],
+    "reviews_count": 30
+  }
+]
