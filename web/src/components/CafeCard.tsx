@@ -2,8 +2,23 @@ import Link from "next/link";
 import { Cafe } from "../types";
 import { getCafeImage } from "../data/cafeImages";
 
-export default function CafeCard({ cafe }: { cafe: Cafe }) {
+export default function CafeCard({ cafe, rank, filterMode }: { cafe: Cafe, rank?: number, filterMode?: string }) {
     const imageUrl = getCafeImage(cafe.shop_name);
+
+    // Tentukan skor yang akan ditampilkan berdasarkan filter
+    let displayScore = null;
+    let displayLabel = "";
+
+    if (filterMode === 'Nugas') {
+        displayScore = cafe.nugas_score;
+        displayLabel = "NUGAS";
+    } else if (filterMode === 'Kerja') {
+        displayScore = cafe.kerja_score;
+        displayLabel = "KERJA";
+    } else if (filterMode === 'Nongkrong') {
+        displayScore = cafe.nongkrong_score;
+        displayLabel = "NONGKRONG";
+    }
 
     return (
         <Link href={`/cafe/${cafe.shop_id}`} className="block group h-full">
@@ -18,7 +33,15 @@ export default function CafeCard({ cafe }: { cafe: Cafe }) {
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent opacity-60"></div>
 
-                    {/* Floating Badge */}
+                    {/* Ranking Badge (Hanya muncul jika ada rank) */}
+                    {rank && (
+                        <div className="absolute top-4 left-4 bg-coffee-dark text-white px-3 py-1.5 rounded-lg shadow-lg flex items-center gap-1 border border-white/20 z-10">
+                            <span className="text-xs font-light tracking-widest uppercase">Rank</span>
+                            <span className="font-bold text-lg leading-none">#{rank}</span>
+                        </div>
+                    )}
+
+                    {/* Floating Rating Badge */}
                     <div className="absolute top-4 right-4 bg-white/95 backdrop-blur px-3 py-1.5 rounded-lg shadow-lg flex items-center gap-1.5 border border-gray-100">
                         <span className="text-yellow-500 text-sm">★</span>
                         <span className="font-bold text-gray-900 text-sm">{cafe.rating_avg}</span>
@@ -45,16 +68,40 @@ export default function CafeCard({ cafe }: { cafe: Cafe }) {
 
                     {/* Footer Card */}
                     <div className="mt-auto pt-4 border-t border-gray-50 flex items-center justify-between">
-                        <div className="flex gap-2">
-                            {cafe.best_for?.slice(1, 3).map((tag) => (
-                                <span key={tag} className="text-[10px] uppercase tracking-wide font-medium text-gray-500 bg-gray-50 px-2 py-1 rounded">
-                                    {tag}
-                                </span>
-                            ))}
-                        </div>
-                        <span className="text-coffee-accent text-xs font-bold group-hover:translate-x-1 transition-transform">
-                            View Details →
-                        </span>
+
+                        {/* Jika sedang filter spesifik, tampilkan Skor Persentase */}
+                        {displayScore !== null ? (
+                            <div className="flex items-center gap-3 w-full">
+                                <div className="flex-1">
+                                    <div className="flex justify-between items-end mb-1">
+                                        <span className="text-[10px] font-bold uppercase tracking-widest text-gray-400">{displayLabel} SCORE</span>
+                                        <span className="text-sm font-bold text-coffee-dark">{displayScore}%</span>
+                                    </div>
+                                    <div className="h-1.5 w-full bg-gray-100 rounded-full overflow-hidden">
+                                        <div
+                                            className="h-full bg-coffee-accent rounded-full"
+                                            style={{ width: `${Math.min(displayScore, 100)}%` }}
+                                        ></div>
+                                    </div>
+                                </div>
+                            </div>
+                        ) : (
+                            /* Tampilan Default (Tags) */
+                            <div className="flex gap-2">
+                                {cafe.best_for?.slice(1, 3).map((tag) => (
+                                    <span key={tag} className="text-[10px] uppercase tracking-wide font-medium text-gray-500 bg-gray-50 px-2 py-1 rounded">
+                                        {tag}
+                                    </span>
+                                ))}
+                            </div>
+                        )}
+
+                        {/* View Details Arrow (Hanya muncul di mode default agar tidak sempit) */}
+                        {displayScore === null && (
+                            <span className="text-coffee-accent text-xs font-bold group-hover:translate-x-1 transition-transform">
+                                View Details →
+                            </span>
+                        )}
                     </div>
                 </div>
             </div>
