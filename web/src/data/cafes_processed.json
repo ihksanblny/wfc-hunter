@@ -1,170 +1,975 @@
 [
   {
+    "shop_id": "0x2dd629003da7e695:0xb1159b75f73cafc8",
+    "shop_name": "CULTURECLUB COFFEE & BAKERY",
+    "nugas_score": 37.0,
+    "kerja_score": 18.5,
+    "nongkrong_score": 44.4,
+    "rating_avg": 4.5,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
+      "Nongkrong"
+    ],
+    "latitude": "-79.392.489",
+    "longitude": "1.126.115.599",
+    "reviews_list": [
+      {
+        "user": "Jamal",
+        "text": "Secara harga dan rasa not bad dan worth it dan juga lokasi yang berada di kota malang yang masih sejuk yang sangat enak saat di datangi di pagi hari. Tetapi kedepannya tolong pelayanannya harus di tingkatkan lagi, seharusnya menu breakfast yang penyajiannya cukup simple malah memakan waktu yang cukup lama sekitar 30 menit an",
+        "rating": 5.0,
+        "date": "5 bulan lalu"
+      },
+      {
+        "user": "Nadin Nadin",
+        "text": "tempatnyaa enaakk bngtt teduhh, apalagi kalau pagii masih sepi ok bngt buat kopag, pelayannya juga ramah dan cantik🥰🥰 …",
+        "rating": 5.0,
+        "date": "Diedit 4 minggu lalu"
+      },
+      {
+        "user": "Erin story Local Guide",
+        "text": "Tempatnya nyaman, estetik, harganya juga pas dikantong, tersedia wifi, makanan 8,5 dan kopi nilainya 9",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      }
+    ]
+  },
+  {
     "shop_id": "0x2dd6291d88fbf8ef:0x9148d7afe2213bad",
     "shop_name": "Roketto Coffee & Co",
-    "latitude": "-7.9140002",
-    "longitude": "112.6053372",
-    "wifi_score": 8,
-    "socket_availability": 6,
-    "quietness": 7,
-    "coffee_quality": 9,
-    "summary": "Kafe estetik 24 jam di Malang yang sangat nyaman untuk produktivitas dengan kopi berkualitas tinggi, meskipun ketersediaan colokan listrik cukup bervariasi di beberapa area.",
-    "best_for": [
-      "Meeting",
-      "Deep Work",
-      "Nongkrong"
-    ],
-    "reviews_count": 30
+    "nugas_score": 30.0,
+    "kerja_score": 30.0,
+    "nongkrong_score": 40.0,
+    "rating_avg": 4.7,
+    "summary": "Kafe ini sedang dianalisa lebih lanjut.",
+    "best_for": [],
+    "latitude": "-79.140.002",
+    "longitude": "1.126.053.372",
+    "reviews_list": [
+      {
+        "user": "devi andarini",
+        "text": "1. update harga terbaru di foto saya (harga normal cafe pd umum nya) 2. saya beli ramen jepang chicken, ga enak mie nya hambar tp kuah nya cukup enak. tp overcook gitu hiks 3. minuman nya enak tapi b aja 4. tempat nya tenaaanggg banget bs utk me time, ngelamun 5. kasir n dapur nya beda lantai, klo minta cabe skalian ke mbak kitchen nya pas anter pesenan. biar ga naik turun capek wasting time 6. toilet bersih bangett nyaman 7. meja kursi setiap sudut bersih gada daun jatuh (outdoor) 8. minum ditunggu, kita bawa sendiri. makanan di anter 9. indoor nyaman banget",
+        "rating": 5.0,
+        "date": "4 bulan lalu"
+      },
+      {
+        "user": "yogas andika",
+        "text": "Tempat ngopi yang modern dan termasuk legend di kota malang. Tempat luas, pelayanan cepat. Namun kalau datang pagi lumayan kotor. Bukanya 24 jam. Colokan disediakan banyak, wifi lumayan oke. Kopi enak, minuman banyak varian. Makanan juga banyak varian. Parkiran lumayan luas",
+        "rating": 5.0,
+        "date": "5 bulan lalu"
+      },
+      {
+        "user": "Muhammad Usmar Arif",
+        "text": "New menunya enak. Dapet free donat dan enak juga. Kopi Roketto wajib dicobain sih, terbaik pokonya.",
+        "rating": 5.0,
+        "date": "sebulan lalu"
+      }
+    ]
   },
   {
-    "shop_id": "0x2dd62993cedd5b2f:0xe1d5daba3d95eb22",
-    "shop_name": "Ada Apa Dengan Kopi (AADK) Bandung Malang - Coffee & Eatery",
-    "latitude": "-7.9140002",
-    "longitude": "112.6053372",
-    "wifi_score": 9,
-    "socket_availability": 9,
-    "quietness": 7,
-    "coffee_quality": 8,
-    "summary": "Coffee shop strategis di Malang yang sangat mendukung produktivitas karena memiliki WiFi kencang, banyak stopkontak, dan fasilitas lengkap, meski cenderung sangat ramai pada jam-jam sibuk.",
+    "shop_id": "0x2dd6294067419899:0xab27db9d9fc2ef99",
+    "shop_name": "Nakoa",
+    "nugas_score": 26.7,
+    "kerja_score": 53.3,
+    "nongkrong_score": 20.0,
+    "rating_avg": 4.5,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Kerja.",
     "best_for": [
-      "Meeting",
-      "Deep Work",
-      "Nongkrong"
+      "Kerja"
     ],
-    "reviews_count": 30
-  },
-  {
-    "shop_id": "0x2dd6294c9e16c935:0x7062c4efcbe0f933",
-    "shop_name": "Niwa Garden",
-    "latitude": "-7.9476729",
-    "longitude": "112.5732105",
-    "wifi_score": 7,
-    "socket_availability": 10,
-    "quietness": 7,
-    "coffee_quality": 8,
-    "summary": "Coffee shop bertema kebun yang sejuk dengan fasilitas colokan di setiap meja dan harga sangat terjangkau, ideal untuk bekerja terutama di pagi hari.",
-    "best_for": [
-      "Deep Work",
-      "Nongkrong"
-    ],
-    "reviews_count": 30
-  },
-  {
-    "shop_id": "0x2dd629ad9c02b621:0x499e000cf2fd41c",
-    "shop_name": "Tomoro Coffee - Suhat",
-    "latitude": "-7.9475159",
-    "longitude": "112.5730552",
-    "wifi_score": 7,
-    "socket_availability": 10,
-    "quietness": 8,
-    "coffee_quality": 9,
-    "summary": "Kafe yang sangat ideal untuk produktivitas berkat ketersediaan stop kontak di hampir setiap kursi dan pelayanan ramah, meskipun stabilitas WiFi di lantai dua perlu diperhatikan.",
-    "best_for": [
-      "Deep Work",
-      "Nongkrong"
-    ],
-    "reviews_count": 30
+    "latitude": "-79.362.506",
+    "longitude": "1.126.222.933",
+    "reviews_list": [
+      {
+        "user": "Anonim",
+        "text": "Hallo Nakoa! Saya ฟงศ์นรวัฒนะ เทพพิทักษ์-เรืองชนะก (Phongnarawattana Thepphitak-ruengchanak), orang-orang mengenal saya dengan nama \"Lana\"",
+        "rating": 0.0,
+        "date": "-"
+      },
+      {
+        "user": "Moh. Fikri Rizaldi",
+        "text": "Sebagai wisatawan yang beberapa kali menginjakkan kaki di Malang, saya penasaran mencoba salah satu cafe yang cukup hits di sini, Nakoa. Pagi menjelang siang, suasananya tenang dan nyaman, cocok untuk yang ingin sarapan santai sambil menikmati udara Malang yang sejuk.  Menu yang saya pesan: - Donat Bomboloni Coklat 🍫 - Risol Mayo Mentai - Donat Almond - Ice Shaken Jelly Tea Lychee 🧋  Semua menu datang dengan tampilan cantik dan menggoda, tapi juaranya menurut saya adalah Donat Bomboloni Coklat, teksturnya empuk, isi coklatnya melimpah, manisnya pas, dan meleleh di mulut. Risol mayo mentainya gurih dan creamy, sementara donat almond punya sensasi renyah dari topping almond. Ice shaken jelly tea rasa lychee segar banget, perpaduan wangi leci dan kenyalnya jelly bikin segar di tengah hari.  💡 Tips buat yang mau ke sini:  1. Datang pagi menjelang siang kalau mau suasana tenang dan sejuk. 2. Bomboloni coklat wajib coba! 3. Harga sangat terjangkau untuk ukuran cafe dengan ambience senyaman ini. 4. Cocok untuk kerja laptop-an atau sekadar ngobrol santai.  Kesimpulannya, Cafe Nakoa sukses bikin kesan pertama saya di Malang jadi manis. Rasanya bakal masuk list kunjungan ulang kalau ke Malang lagi. 🌿",
+        "rating": 5.0,
+        "date": "5 bulan lalu"
+      },
+      {
+        "user": "Kharisma Layar",
+        "text": "Selalu ngerasa aman tiap nugas di nakoa, walaupun super rame dari pagi sampe malem, tapi kalo kita mau ninggal tas mau solat/keluar, rasanya aman aja gitu karna yg lain udh sibuk sama laptopnya masing2😂😆 Tiap meja ada colokan, toilet bersih, wifi ok, AC super dingin, ada parkir tapi mas parkirnya pasti bantu.",
+        "rating": 5.0,
+        "date": "4 bulan lalu"
+      }
+    ]
   },
   {
     "shop_id": "0x2dd629479421e2fd:0x93b041051db54eca",
     "shop_name": "Ki.Rei Coffee and Eatery",
-    "latitude": "-7.9311744",
-    "longitude": "112.6220126",
-    "wifi_score": 9,
-    "socket_availability": 9,
-    "quietness": 8,
-    "coffee_quality": 9,
-    "summary": "Coffee shop hidden gem di Malang yang sangat kondusif untuk WFC berkat fasilitas WiFi kencang, stopkontak melimpah, dan area indoor smoking ber-AC yang nyaman.",
+    "nugas_score": 36.7,
+    "kerja_score": 30.0,
+    "nongkrong_score": 33.3,
+    "rating_avg": 4.6,
+    "summary": "Kafe ini sedang dianalisa lebih lanjut.",
+    "best_for": [],
+    "latitude": "-79.311.744",
+    "longitude": "1.126.220.126",
+    "reviews_list": [
+      {
+        "user": "devi andarini",
+        "text": "woooowww amazed banget sm cafe ini hidden gem. menu murahhh semua. sepi sunyi bisa buat me time  ada indoor smooking tp ga bau rokok, bau wangi. paham gasihh nyaman gt lhooo.. milih duduk di indoor smooking krn lebih dingin ac nya  bersih semuaaa dan paling gacor lagi.. kursi nya dr INFORMA weeeyy modal nya brp wkwk  sekelas es coklat aja 18.000 di tempat lain uda 22-25 rb coy gilaa ini cafe full sedekah apaya wkwk  trus paling gong nya adalahh setiap minum nya bawah nya dikasih tissu ini hal yg selalu aku lakukan klo pesen minum di cafe. gelisah bgt meja jadi basah bentuk bunder gelas gitu  aaaa cafe terbaik di malang  jgn naikin harga yaaaa pliiisss",
+        "rating": 5.0,
+        "date": "3 bulan lalu"
+      },
+      {
+        "user": "beymen",
+        "text": "tempatnya hidden gem, suprisingly makanannya enak bangett bener bener diluar ekspektasi. tempatnya juga nyuaman pol, ada indoor smoking area juga:3 suasananya bikin betah nongkrong lama disini, cocok buat nugas. pelayanannya ramah, harga jg worth it! defined bakal balik ke sini lagi💯❤️",
+        "rating": 5.0,
+        "date": "4 bulan lalu"
+      },
+      {
+        "user": "aisya rodriguez",
+        "text": "BEST PLACE bgt buat yang suka ngopi sendirian! • smoking AC yang membuat nilai +++ • kopinya enakk, aku suka yang kopi kireinya di add on biscoff • servicenya ramah dan helpful • cocok bgt buat nugas, colokan everywhere wifi juga kenceng - air di toilet atas kadang ga keluarr  overall 10/10 sih buat aku apalagi klo waktu gaada tukang parkirnya hehe",
+        "rating": 5.0,
+        "date": "6 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2dd6294c9e16c935:0x7062c4efcbe0f933",
+    "shop_name": "Niwa Garden",
+    "nugas_score": 20.0,
+    "kerja_score": 10.0,
+    "nongkrong_score": 70.0,
+    "rating_avg": 4.5,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
     "best_for": [
-      "Meeting",
-      "Deep Work",
       "Nongkrong"
     ],
-    "reviews_count": 30
+    "latitude": "-79.476.729",
+    "longitude": "1.125.732.105",
+    "reviews_list": [
+      {
+        "user": "Noraisyah Zakiah Reza",
+        "text": "Ngecafe sekaligus nongkrong dimalam hari di Malang tuh vibesnya paling enak kalo tempat ditengah hijau-hijau gini 🍃 So nice to find NiwaGarden Malang buat ngopi sama ngemil (ofcourse ada aneka noncoffee, tea and mocktail as well)  Lokasiny menurutku dikit masuk, buat yang bawa roda empat pastikan dbantu tukang parkir yaa buat parkir karena ga bisa parkir dpinggir jalan",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      },
+      {
+        "user": "Farahzaf",
+        "text": "Disini tuh enaknya abis ujan bener2 seger dan adem atmosfernya, udah gitu makanan2nya gada yg gagal, enak semua terutama dimsumnya benar benar yummy, nunggunya juga bentar banget loh ga sampe 10 menit dah siap semuaaa. Pelayanannya markotop wes pokoknya",
+        "rating": 5.0,
+        "date": "4 bulan lalu"
+      },
+      {
+        "user": "Candrika Prameswari",
+        "text": "Kalau pingin ngadem di udara malang yang panas ini bisa banget kesini, ambience nya sendu dan sejuk. Colokan juga banyak jadi cocok banget buat kerja dan chill🏻🏻 makanan dan minumannya juga ramah di kantong + enak bangetttt!!!!!🙏🏼😭 kakak2 nya juga ramah dan gercep banget, luv banget deh pokoknya 😍",
+        "rating": 5.0,
+        "date": "4 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2dd62951c55de7c5:0x1d511a16d26bb497",
+    "shop_name": "JOKOPI - Malang",
+    "nugas_score": 40.0,
+    "kerja_score": 40.0,
+    "nongkrong_score": 20.0,
+    "rating_avg": 4.2,
+    "summary": "Kafe ini sedang dianalisa lebih lanjut.",
+    "best_for": [],
+    "latitude": "-79.610.134",
+    "longitude": "1.125.896.334",
+    "reviews_list": [
+      {
+        "user": "cndchive.",
+        "text": "Tempatnya luas, cocok buat wfc. Menunya variatif, yg bosen kopi bisa pesen jus, ada macem\" pastry juga. Colokannya byk. Mau seharian disini juga bisa (buka 24 jam soalnya).",
+        "rating": 5.0,
+        "date": "seminggu lalu"
+      },
+      {
+        "user": "Salwa Hervanda",
+        "text": "(+) Kamar mandi lengkap ada cermin, sabun, tong sampah (+) Always ramai yaa bolo baik outdoor maupun indoor dengan mahasiswaw (+) Banyak colokan dan meja, pokoknya nugasable yaa pandai² pilih tempat duduk aja si sebelum ke booking (+) Smooking area dibedakan (+) Pelayanan ramah dan cepatt, open 24h pula. semangattt kerjanya mas/mbak pegawai! (-) Secara arsitektur layout bangunannya biasa aja, bahkan ga instragamable. aku gatau kenapa banyak yg ke sini, apa karena harganya murce yaa? atau emang lokasinya aja yg strategis deket top 3 kampus (-) Wifi lemoyy (-) Ga tersedia menu makanan berat. Tapi overall passtrie nya mayan enak juga.",
+        "rating": 4.0,
+        "date": "3 bulan lalu"
+      },
+      {
+        "user": "Vidz Putra",
+        "text": "Ambience ngopi di JOKOPI tuh seru banget! Kopi Susu Blusukan is the best choice buat nemenin lo WFH, ngerjain tugas kuliah, atau sekedar nongkrong aja. Kalo barista favourite nya jelas Kak Lailaa 😁",
+        "rating": 5.0,
+        "date": "seminggu lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2dd6295d534b2775:0x95856aa0b27b4fd0",
+    "shop_name": "Muraco Headquarter",
+    "nugas_score": 13.3,
+    "kerja_score": 20.0,
+    "nongkrong_score": 66.7,
+    "rating_avg": 4.6,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
+      "Nongkrong"
+    ],
+    "latitude": "-79.392.489",
+    "longitude": "1.126.115.599",
+    "reviews_list": [
+      {
+        "user": "beuue",
+        "text": "40 menit setelah memesan  \"mas ini pesanannya kok belum dateng ya?\" \"sebentar, saya cekkan dulu\"  alias klo ga di komplain, nunggu sampe tahun depan..  gatau ya, karena printernya error katanya.. profesional oke ada kompensasi 2 minum dan 1 kentang.. tp lama nunggu pesenan itu agak kesel aja si.  overall tempatnya oke kok untuk nongkrong / wfc / ngedate karena ada sofa dan banyak yg \"ngebucin\"",
+        "rating": 4.0,
+        "date": "4 minggu lalu"
+      },
+      {
+        "user": "Apsari Puspitaningtyas",
+        "text": "Kesini sama teman-teman, tempatnya ada di lantai lima. Bisa di akses dengan lift. Lift nya tutup pintu manual ya. Pas ditunggu nutup kok nggak nutup-nutup wkwk Makanan pesan burger lumayan enak. Steak ayam nggak cocok di lidah heheh, karena ayamnya nggak ayam pure. Kayak ada tambahannya terus dibentuk bundar. Es coklatnya biasa aja :) kurang aesthetic menurutku. Sweet caroline hiasannya pakai lemon kering.",
+        "rating": 5.0,
+        "date": "5 bulan lalu"
+      },
+      {
+        "user": "Angke Latifa",
+        "text": "buat view city light cakeuppp pwoll, pelayanan juga okee banget super ramah, makanan semoga bisa di-improve yaa, sukses selalu!",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      }
+    ]
   },
   {
     "shop_id": "0x2dd6298d53fd71fd:0x17bc31f55ca6c1cc",
     "shop_name": "Koji space coffee",
-    "latitude": "-7.9377283",
-    "longitude": "112.6186502",
-    "wifi_score": 9,
-    "socket_availability": 7,
-    "quietness": 9,
-    "coffee_quality": 9,
-    "summary": "Coffee shop bernuansa rumahan yang sangat tenang dengan kualitas kopi premium, cocok untuk bekerja fokus tanpa gangguan bising lalu lintas.",
-    "best_for": [
-      "Deep Work",
-      "Nongkrong",
-      "Meeting"
-    ],
-    "reviews_count": 30
+    "nugas_score": 40.0,
+    "kerja_score": 26.7,
+    "nongkrong_score": 33.3,
+    "rating_avg": 4.9,
+    "summary": "Kafe ini sedang dianalisa lebih lanjut.",
+    "best_for": [],
+    "latitude": "-79.377.283",
+    "longitude": "1.126.186.502",
+    "reviews_list": [
+      {
+        "user": "Syahrizal Engga Lupita",
+        "text": "Sederhana tapi manis. Lokasinya di tengah perumahan. Tempatnya nyaman, playlist musiknya oke dan yang pasti volumenya pas gak ganggu pas kita lagi ngobrol. Buat wfc oke, buat nongki apa lagi. Saran kalo kesini pagi atau sore menuju malam.",
+        "rating": 5.0,
+        "date": "2 minggu lalu"
+      },
+      {
+        "user": "Gilang Tirta Kurnia",
+        "text": "Cafe outdoor di tengah pmukiman griya shanta. Minuman oke, tempat tdk terlalu luas, rumahan. Cocok buat nongki2 aja, bisa buat wfc tp kurang ergonomis meja kursinya. Parkir motor aman, mobil terbatas. Syahdu kalau pagi2 masih sepi, suara burung + hijau2 taman 👌🏻",
+        "rating": 5.0,
+        "date": "3 bulan lalu"
+      },
+      {
+        "user": "rumahmimi57",
+        "text": "Paling enak ke sini sore atau pas mendung-mendung gitu. Homey banget suasananya. Pelayanannya ramah. Rasa kopinya memang sesuai dengan review-review enaaaak. Harganya juga ga mahal. Beli snack french fries dan cireng, agak keras cirengnya kayaknya kelamaan gorengnya hehe tapi gpp. Aman.",
+        "rating": 4.0,
+        "date": "6 bulan lalu"
+      }
+    ]
   },
   {
-    "shop_id": "0x2e78830010fb4c65:0x5f7f6f110b4c03a2",
-    "shop_name": "CW Coffee & Eatery - Tlogomas",
-    "latitude": "-7.9255344",
-    "longitude": "112.5812066",
-    "wifi_score": 8,
-    "socket_availability": 9,
-    "quietness": 4,
-    "coffee_quality": 8,
-    "summary": "Kafe 24 jam di Malang yang sangat luas dan populer untuk nugas dengan WiFi kencang serta banyak colokan, meski sering ramai dan memiliki catatan pada konsistensi pelayanan makanan.",
+    "shop_id": "0x2dd62993cedd5b2f:0xe1d5daba3d95eb22",
+    "shop_name": "Ada Apa Dengan Kopi (AADK) Bandung Malang - Coffee & Eatery",
+    "nugas_score": 16.7,
+    "kerja_score": 13.3,
+    "nongkrong_score": 70.0,
+    "rating_avg": 4.3,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
     "best_for": [
-      "Meeting",
-      "Deep Work",
       "Nongkrong"
     ],
-    "reviews_count": 30
+    "latitude": "-79.140.002",
+    "longitude": "1.126.053.372",
+    "reviews_list": [
+      {
+        "user": "palupi maulanaa",
+        "text": "Tempatnya bersih, comfy, ada sofanya juga, ada outdoor dan indoor jadi bisa nyantai tanpa ada asap rokok. Kebetulan kita dateng pas siang jadi ngga terlalu ramai. Untuk harga makanan dan minuman udah standar cafe. Ada mushola, ada photobox juga. Saran saya di lantai 2 bisa dikasih kursi yang sofa juga biar lebih comfy. Ada biaya parkir.",
+        "rating": 5.0,
+        "date": "Diedit 2 bulan lalu"
+      },
+      {
+        "user": "Viona E",
+        "text": "Random aja kesini waktu itu.  Aku suka matcha dan waktu itu liat ada menu  matcha kelapa, iseng nyoba, ternyata not bad. Awal2 enak dan unik sih waktu matcha ketemu sama air kelapa, nyegerin, tapi pas air kelapanya udah habis, baru deh kerasa matcha paitnya wkwk. Bitterbalen enak, isi coklat, renyah diluar, lembut dan lumer di dalam. ADDK Platter isinya ada nugget, sosis dan kentang.  Untuk tempat cukup luas ya, tapi seringnya ramai, jadi dapet tempat yang kurang nyaman gitu hueheue. Ada 2 lantai. Seingetku pesenan diambil sendiri.  Parkiran cukup sih, ga terlalu luas tapi ada tukang parkir yang bantuin.",
+        "rating": 5.0,
+        "date": "4 minggu lalu"
+      },
+      {
+        "user": "Alvira Mustikasari",
+        "text": "Lokasi nya strategis di Jalan Bandung dekat dengan Prosus inten, haus dan sekolah mts&min. Pas kesini agak sepi ngga terlalu rame. Kasir nya ramah dan gak jutek. FREE WIFI ya disini. Terdapat mushola di lantai 2. Banyak banget yang nugas disini apalagi di outdoor pake beanbag wkwk. Untuk menu nya variatif, harganya ngga terlalu pricey. Aku pesen rose milk tea, untuk minumnya enak bgt wey ngga terlalu manis banget. Nunggu minumannya ngga terlalu lama banget mungkin sekitar <10 menit. Selain itu mereka menjual dessert seperti cromboloni, brownies, dll. Pembayaran bisa pake QRIS, debit, cash. Parkir bayar 2rb ya.",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2dd629ad9c02b621:0x499e000cf2fd41c",
+    "shop_name": "Tomoro Coffee - Suhat",
+    "nugas_score": 43.3,
+    "kerja_score": 16.7,
+    "nongkrong_score": 40.0,
+    "rating_avg": 4.7,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nugas.",
+    "best_for": [
+      "Nugas"
+    ],
+    "latitude": "-79.475.159",
+    "longitude": "1.125.730.552",
+    "reviews_list": [
+      {
+        "user": "Nandyan Ayu",
+        "text": "Harga sesuai rasa dan affordable bagi mahasiswa. Wifi kenceng dan banyak stop kontak. Kayanya baristanya cuma 1 untuk 1 shift, soalnya pas kesana siang, dia lagi makan di dalam dan ga ada yg jaga depan. Jd aku nunggu agak lama sampai dia keluar dari dapur. Mana ga ada bel atau apa gitu buat manggil",
+        "rating": 4.0,
+        "date": "4 bulan lalu"
+      },
+      {
+        "user": "maulana nurilhuda",
+        "text": "Pelayanannya ramah dan cepat.. cafe nyaman sama seperti Tomoro lainnya., cocok banget buat ngopi sambil nugas.. Banyak colokan listrik yang mudah diakses, free Wi-Fi.. Recommended banget buat yang cari tempat produktif tapi tetap santai..",
+        "rating": 5.0,
+        "date": "8 bulan lalu"
+      },
+      {
+        "user": "Celeste Evans",
+        "text": "Lokasi strategis. Suasana tenang dan sejuk. Semoga sering ada promo biar bisa sering kesini 👍",
+        "rating": 5.0,
+        "date": "4 bulan lalu"
+      }
+    ]
   },
   {
     "shop_id": "0x2dd629b0e727ce43:0x679c16be04cb2e0e",
     "shop_name": "Hindia Koffie En Eaten",
-    "latitude": "-7.9632011",
-    "longitude": "112.6203079",
-    "wifi_score": 9,
-    "socket_availability": 7,
-    "quietness": 6,
-    "coffee_quality": 8,
-    "summary": "Kafe bernuansa kolonial yang sangat mendukung produktivitas berkat WiFi stabil dan pelayanan ramah, meski pengunjung perlu memilih spot meja tertentu untuk memastikan ketersediaan colokan.",
+    "nugas_score": 43.3,
+    "kerja_score": 23.3,
+    "nongkrong_score": 33.3,
+    "rating_avg": 4.8,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nugas.",
     "best_for": [
-      "Meeting",
-      "Deep Work",
+      "Nugas"
+    ],
+    "latitude": "-79.632.011",
+    "longitude": "1.126.203.079",
+    "reviews_list": [
+      {
+        "user": "Charlotte Lupin",
+        "text": "Tempat yang pewe banget buat nugas atau wfc, soalnya makanannya masih terjangkau tapi variasinya banyak banget. Staffnya super duper ramah. Wifinya kenceng. Udah ada musholla yang luas bersih.",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      },
+      {
+        "user": "Mochammad Abiyyu Syah Nabil",
+        "text": "Dari makanannya si enak, pelayanan lumayan bagus, harga terjangkau  So far good place  Saran, kasih 1 kesan agar pengunjung inget ke Hindia aja si🙌🏻🙏🏻",
+        "rating": 5.0,
+        "date": "sebulan lalu"
+      },
+      {
+        "user": "Anas Ayuni",
+        "text": "Pesen Cappuccino Iced & Nasi Goreng Jawa, overall semuanya enak terutama nasgornya. Bahkan ga expect porsi segede kuli sampe aku makannya dua tahap 😃  Service stafnya bagus, semuanya ramah, dan sangat membantu. Minusnya tadi pas pagi musik terlalu keras, jadi agak mengganggu buat yg lagi nugas.",
+        "rating": 5.0,
+        "date": "sebulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2dd629ddaee1a813:0x685aa1d624501627",
+    "shop_name": "Fore Coffee - Jl. Soekarno Hatta, Malang",
+    "nugas_score": 12.5,
+    "kerja_score": 50.0,
+    "nongkrong_score": 37.5,
+    "rating_avg": 4.9,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Kerja.",
+    "best_for": [
+      "Kerja"
+    ],
+    "latitude": "-79.392.489",
+    "longitude": "1.126.115.599",
+    "reviews_list": [
+      {
+        "user": "Amelia Nur R",
+        "text": "Okee, mau review satu² yaa. Aku warga luar kota yg udh 2x pesen disini. Rasa : udh gk perlu diraguin, premium dan enak bgt. Awal aku jatuh cinta sm fore waktu nyoba varian kopi dari tani mereka. Enak bgt bgt bgt. Trs explore lg rasa …",
+        "rating": 5.0,
+        "date": "5 bulan lalu"
+      },
+      {
+        "user": "Bro Yonathan Channel",
+        "text": "Mantab tempatnya cozy. Cocok utk nugas dan nongki santai. Lokasinya gampang dicari di nol jalan suhat. Yg agak sulit parkirnya apalagi klo bw mobil.",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      },
+      {
+        "user": "Andis Julian",
+        "text": "Dimana pun fore selalu jadi tempat ngopi ternyaman.. selain tempat nya rada minuman nya enak,  mungin sebulan bisa 7 atau 8x kunjungan k fore pindah pindah cabang.. paling suka butterschot sea salt late, dan minuman choclat nya si jumbo itu lohh dapat stiker lagi 😘 …",
+        "rating": 5.0,
+        "date": "4 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2dd629e77a4dcff7:0x207805028a728af9",
+    "shop_name": "Warkop Brewok II",
+    "nugas_score": 20.0,
+    "kerja_score": 0,
+    "nongkrong_score": 80.0,
+    "rating_avg": 4.0,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
       "Nongkrong"
     ],
-    "reviews_count": 30
+    "latitude": "-79.419.851",
+    "longitude": "11.262.393",
+    "reviews_list": [
+      {
+        "user": "Fanidya Rahmadhani",
+        "text": "tempat sangat luaas. makanan minuman cukup murah. langganan disini dari waktu skripsian sampe udah kerja. siang juga ga panas, rame pun tetep bisa buat ngobrol karena tempat duduknya berjarak",
+        "rating": 5.0,
+        "date": "5 bulan lalu"
+      },
+      {
+        "user": "Pandya Rasendria",
+        "text": "Tempat ngopi pilihan terbaik, suasana tenang bernuansa taman belakang rumah. Meskipun ambience outdoor, tapi ramah hujan. Snack dan minumannya ramah dikantong, rasanya juga ga kaleng kaleng aja. Minusnya cuman selalu rame, jm 8 keatas gtu uda hampir dipastikan penuh.",
+        "rating": 5.0,
+        "date": "8 bulan lalu"
+      },
+      {
+        "user": "Ahmad Bachtiar Arif",
+        "text": "Warkop yang terasa seperti cafe. Tempatnya nyaman untuk diskusi, nugas, atau sekedar ngopi. Tersedia colokan di hampir setiap meja, sehingga support untuk working space. Namun, terkadang tempatnya penuh, sehingga pengunjung harus menunggu pengunjung yang lain pulang. Di sini juga terdapat mushola dan kamar mandinya cukup bersih. Untuk tempat parkir cukup memadai, meskipun tidak ada parkir untuk mobil, namun dapat parkir di bahu jalan.",
+        "rating": 4.0,
+        "date": "Diedit 2 tahun lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2dd629e7c8cc9aa1:0x8d98cf1f12623312",
+    "shop_name": "Labore coffee eatery",
+    "nugas_score": 32.4,
+    "kerja_score": 17.6,
+    "nongkrong_score": 50.0,
+    "rating_avg": 4.5,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
+      "Nongkrong"
+    ],
+    "latitude": "-79.429.744",
+    "longitude": "112.622.731",
+    "reviews_list": [
+      {
+        "user": "Yunita Fera Rahmawati",
+        "text": "Pelayanannya baik dan ramah banget, harga affordable. Tempatnya aja yg gak luas. Cocok buat wfh. Parkir mobilnya susah, tempat parkirnya terbatas.",
+        "rating": 5.0,
+        "date": "4 minggu lalu"
+      },
+      {
+        "user": "Marissa Renata",
+        "text": "Cafe rame jadi tmpt nongkrong, banyak yang bawa laptop, ada beberapa colokan gabisa dipake buat ngecas HP.  Pesen oat latte enak, kyoto inu matchanya juga okee banget, abis minum engga buat mules.. molten lava classicnya jugaa nice, lumerr pol, tp minusnya lama ajaa, hampir 20menit🙏🏼  Menu makanannya keliatannya enak, tp dateng pas perutt dah kenyangg, jd mungkin next time aja  Plusnya, playlist musicnya enak dan makasihh tukang parkirnya bungkusin helmnya satuu satu jd gaa basah kena hujan😚",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      },
+      {
+        "user": "Ulfa aizatul Umayyah",
+        "text": "Ruanganya bau rokok padahal di indoor ini sangat mengganggu karena pengunjung bebas merokok di dalam ruang ber-AC. Tolong ditegakkan aturan bebas rokok demi kenyamanan semua pelanggan.🙏😭 …",
+        "rating": 2.0,
+        "date": "sebulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2dd629feba20ef73:0xc6a56d37003481f2",
+    "shop_name": "Tenthirty coffee and eatery",
+    "nugas_score": 20.0,
+    "kerja_score": 26.7,
+    "nongkrong_score": 53.3,
+    "rating_avg": 4.1,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
+      "Nongkrong"
+    ],
+    "latitude": "-79.342.981",
+    "longitude": "1.126.231.289",
+    "reviews_list": [
+      {
+        "user": "Rizky Akbaria",
+        "text": "Makanan enak bikin kenyang, kopi-kopiannya juga ok, cuma mungkin bagi yang pecinta kopi strong harus ekstra shoot. Pelayanannya ramah dan baik, sama cekatan juga klo udah ada meja kosong. untuk suasana sayangnya area belakang listriknya bermasalah, jadi minim lampu dan colokan juga g nyala (padahal baru pertama kesana 😩) semoga next bisa segera di perbaiki ya 😌.Semoga makin ramai dan lancar terus🌻🌻🌻",
+        "rating": 5.0,
+        "date": "2 minggu lalu"
+      },
+      {
+        "user": "Mita Elifisia",
+        "text": "nyari cafe buat wfc dan gatau tiba tiba ngide kesini dan ternyata cocok buat wfc, suasana tenang, pas kesitu halaman belakang sebagian dan atas lagi di renov. harganya standart kafe kafe pada umumnya, pesen beef teriyaki ternyata enak banget, kayanya pengen cobain ke kafe ini lagi tapi di cabang lain, soalnya dilihat di Instagramnya ternyata cabangnya banyak",
+        "rating": 5.0,
+        "date": "3 bulan lalu"
+      },
+      {
+        "user": "Stvt",
+        "text": "Tempatnya enak, ada photobox juga disana. Terus di area indoornya cakeuppp. Kalo di bagian luar juga enak dan penempatan meja dan kursinya oke. Untuk kopinya enak, manualnya banyak pilihan dan di seduh dengan okey",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e788188e6044617:0xef4c7e63cf90d89d",
+    "shop_name": "Labuh Ruang",
+    "nugas_score": 36.7,
+    "kerja_score": 3.3,
+    "nongkrong_score": 60.0,
+    "rating_avg": 4.6,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
+      "Nongkrong"
+    ],
+    "latitude": "-79.211.565",
+    "longitude": "1.125.794.576",
+    "reviews_list": [
+      {
+        "user": "Balqis Beta",
+        "text": "Love the croffle hereee, jam paling buat ngopi pas sore sambil liat pemandangan , menunya makin banyak udah ada makanan berat jugaa enakk ayamnya empuk 😽 rekomen dehh",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      },
+      {
+        "user": "Siti Istiqomah",
+        "text": "Enak bangettt Tempatnya , luasss dan bagus Buat Foto2 ,.. Nyaman banget untuk mengerjakan Tugas kuliah karna wifi Loss Doll ☺️🙂🙂Crofflenya enak dan cirengnya mantu gak nyesel jauh2 ngopi di sini deh..!!!!",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      },
+      {
+        "user": "Lanny Tanoyo",
+        "text": "Tempat nongkrong yang nyaman. Syasana tenang. Bersih. Pelayanannya sangat baik dan ramah. Minuman yang saya pesan KOSU ALPENION rasanya enak. Untuk makanan saya pesan Super Pop yaitu ayam pop. Tepungnya renyah, ayamnya tidak tipis jadi enak dimakan. Lokasinya masuk ke jalan sempit. Kalau naik mobil ada tempat parkir. Jalanan hanya muat 1 mobil saja. Secara keseluruhan saya suka tempat ini. Rate: 8,5/10",
+        "rating": 5.0,
+        "date": "9 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e7883000364fa01:0x393dcbcecab5be87",
+    "shop_name": "Fajar baru 4 pisang kipas",
+    "nugas_score": 40.0,
+    "kerja_score": 16.7,
+    "nongkrong_score": 43.3,
+    "rating_avg": 3.7,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
+      "Nongkrong"
+    ],
+    "latitude": "-79.399.942",
+    "longitude": "1.126.190.276",
+    "reviews_list": [
+      {
+        "user": "Rafli Effendi",
+        "text": "sumpah ini tempatnya luas, parkiran gede, harga juga ekonomis, cocok banget buat nongki santuy di Malang. Oh ya, 24 jam juga 😋",
+        "rating": 5.0,
+        "date": "sebulan lalu"
+      },
+      {
+        "user": "meiry maulidya",
+        "text": "Another tempat nongkrong kalcer di Malang, tempatnya luas dan bersih. Yang aku notice pertama adalah tempat duduknya nyaman, ga tinggi gitu. Buat aku, matcha nya terlalu manis... But overall good. Makanannya so yummehh.",
+        "rating": 5.0,
+        "date": "6 bulan lalu"
+      },
+      {
+        "user": "HERBAMOUR OFFICIAL",
+        "text": "So far asik tempatnya, agak nyempil sedikit dari jalan raya but ga susah dicari. Unik banget ada beberapa mejanya ex mesin jahit singer..kreatif.  Suasana lumayan asik aja but ini semi outdoor ya jd sudah pasti asap rokok friendly, Infonya sih buka 24jam ya, kalo kamu ksini malem2 harus gede nyali cos deket dengan makam umum hehe..  Meja agak kotor banyak bekas abu rokok. Makanan ga terlalu banyak varian, but kopinya enak bangeeett, sukaaa.",
+        "rating": 4.0,
+        "date": "6 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e78830010fb4c65:0x5f7f6f110b4c03a2",
+    "shop_name": "CW Coffee & Eatery - Tlogomas",
+    "nugas_score": 40.0,
+    "kerja_score": 20.0,
+    "nongkrong_score": 40.0,
+    "rating_avg": 3.9,
+    "summary": "Kafe ini sedang dianalisa lebih lanjut.",
+    "best_for": [],
+    "latitude": "-79.255.344",
+    "longitude": "1.125.812.066",
+    "reviews_list": [
+      {
+        "user": "fe fern",
+        "text": "Cafe Super Luas 24 jam di Malang! . Tempatnya luas bangettt ada indoor dan outdoornya. Tempat parkirnya juga sangat luas, aman untuk mobil-motor. Langsung pesan dan bayar di kasir nanti makanan nya di antar. Harga masih cukup terjangkau, pelayanan juga ramah dan cepat. Kopi susunha cukup enak, cukup strong dan ga terlalu manis. Pesan juga matchamisu cake tapi ga terlalu berasa tiramisu nya. Overall ini oke banget untuk nongkrong/sambil nugas",
+        "rating": 5.0,
+        "date": "4 minggu lalu"
+      },
+      {
+        "user": "Mai Andini",
+        "text": "Kesini pertama kali malam minggu, ditolak sama tukang parkirnya karena parkir full sampe ke jalan juga penuh akhirnya pending keesokan sorenya baru kesini. Tempatnya gede, luas bgt, ada indoor n outdoor, bangunan indoornya tinggi jadi berasa lega plong kaya lagi di hall. Menunya banyak n enak2, sepadan dgn harga ya, waitress ramah n pelayanan oke bgt waktu itu kita sempet pindah meja dari outdoor ke indoor karena hujan terus kita info ke waitressnya dan ga lama pesanan dateng tanpa drama nyari2 meja. Cocok buat nongki rame2 disini, kids friendly juga karena disediakan mini playground.",
+        "rating": 5.0,
+        "date": "3 bulan lalu"
+      },
+      {
+        "user": "May Amilush",
+        "text": "Tempat nongkrong 24 jam yang super nyaman. Tempatnya luas, ada in dor dan out dor. Parkiran sangat luas jadi sangat leluasa klo disini nongkrong lama-lama Tempatnya gapernah sepi Tapi selalu bersih  AC di indor dingin bett wkwk Menunya sangat bisa dinikmati  Banyak mahasiswa yang diskusi ataupun ngerjain tugas Tpi wifinya susah yaa",
+        "rating": 4.0,
+        "date": "4 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e7883002b9659d3:0x91195bf71ce06ecb",
+    "shop_name": "Warkop Djayantie RRI",
+    "nugas_score": 34.5,
+    "kerja_score": 13.8,
+    "nongkrong_score": 51.7,
+    "rating_avg": 4.1,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
+      "Nongkrong"
+    ],
+    "latitude": "-7.935.551",
+    "longitude": "1.125.984.798",
+    "reviews_list": [
+      {
+        "user": "Faris Aulia Rahman",
+        "text": "Langganan kesini paling nggak seminggu sekali, menunya enak! Dan murah banget. Cocok buat sarapan, makan siang, makan malem. Kalo bisa ada add on ayam/telur gitu sih. Kopi susu sudja + nasi siram adalah kombo terepic",
+        "rating": 5.0,
+        "date": "10 bulan lalu"
+      },
+      {
+        "user": "Luthfi Faishal Hermawan",
+        "text": "09-05-2025, harga kopinya murah, rasa kopinya enak kopi susu saring favorit!!, kecepatan wifi biasa, ada 2 tempat untuk duduk indoor dan outdoor, tempatnya cocok buat nongkrong, toiletnya keren cuy!! banyak posternya lumayan bersih juga, mushola sudah tersedia, tempat parkir cukup banyak untuk motor aga sulit untuk mobil, mas parkirnya juga ramah.",
+        "rating": 5.0,
+        "date": "8 bulan lalu"
+      },
+      {
+        "user": "Novan Fauzan",
+        "text": "Warkop Djayantie punya suasana klasik yang bikin betah dari pertama datang. Tempatnya sederhana tapi penuh cerita, dengan kopi hitam dan gorengan hangat yang jadi andalan. Nongkrong di sini rasanya kayak pulang — obrolan ngalir, tawa lepas, dan waktu berjalan pelan.",
+        "rating": 5.0,
+        "date": "3 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e788333398f3db3:0x282645ad24fa3992",
+    "shop_name": "KAF Cafe",
+    "nugas_score": 36.7,
+    "kerja_score": 36.7,
+    "nongkrong_score": 26.7,
+    "rating_avg": 4.6,
+    "summary": "Kafe ini sedang dianalisa lebih lanjut.",
+    "best_for": [],
+    "latitude": "-79.610.134",
+    "longitude": "1.125.896.334",
+    "reviews_list": [
+      {
+        "user": "Inez Diva Ashilvania",
+        "text": "Tempat nugas atau pun wfh yang cozy walau tidak berac. Iya, jadi yg berac hanya di lantai satu, sedangkan di lantai dua enggak. Jadi mengandalkan kipas angin yg tersebar di berbagai sisi, tapi jika ingin wfh ya pesan di lantai dua. Yang indoor nggak banyak kursi, dan untungnya datang pas sepi hingga bisa dapat tempat.  Wifinya kenceng, kopinya enak dan disajikan pakai tempat. Jadi mejanya nggak bakal basah, terus harganya juga terjangkau. Satu lagi, banyak colokan di setiap kursi jadi nggak usah khawatir ya gaes hehe. Terus parkirannya kecil, jadi lebih baik ke sini jalan kaki atau naik motor, ya.  Aku tadi coba kopinya, nyaman di perut dan porsi kopi dan susunya balance.",
+        "rating": 5.0,
+        "date": "seminggu lalu"
+      },
+      {
+        "user": "Baby Sloth",
+        "text": "Ini cafe yang cocok banget buat nugas atau wfc!! Udah lengkap ada musholla lagi. Makanannya murah-murah, enak-enak, ada gelato juga (cuma 15rb 1 scoop coy).  Staffnya ramah dan murah senyum semua, wifinya lumayan cepet, ada colokan satu tiap meja",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      },
+      {
+        "user": "mai landari",
+        "text": "Ke sini tdk sengaja pas lewat jalan mt haryono.  Cafenya tdk begitu besar dari luar tapi pas masuk ke atas di lantai 2 lumayan luas . Pelayanan ramah dari kasir hingga staff lainnya. Kebersihan cafe lumayan.  Di bawah ruang AC.  Tenang, bersih dan nyaman bisa buat santai, dg keluarga atau ngerjain tugas kuliah.  Buka sampai tengah malam .banyak anak mahasiswa kesini. Makanan lumayan enak .dan tdk begitu bnyk menu. Minuman juga enak Harga ramah di kantong. Ada ice cream gelatonya..next mungkin aku mau coba. Kalo yg suka minuman soda bisa di coba aneka minuman yg seger sekali. Recommended sih menurutku.  Ada nasi sambal kecombrang. Kalo utk pizza dia lebih kaya ke roti yah.  Enak bisa buat cemilan. Ke Malang wajib kesini.",
+        "rating": 5.0,
+        "date": "5 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e788343900d53cb:0xcedf8dba189535df",
+    "shop_name": "Pasadena Coffee",
+    "nugas_score": 50.0,
+    "kerja_score": 6.7,
+    "nongkrong_score": 43.3,
+    "rating_avg": 4.3,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nugas, Nongkrong.",
+    "best_for": [
+      "Nugas",
+      "Nongkrong"
+    ],
+    "latitude": "-79.236.646",
+    "longitude": "1.125.794.077",
+    "reviews_list": [
+      {
+        "user": "Raihan Lingga",
+        "text": "Tempat ngopi yang nyaman banget! Suasananya cozy, cocok buat nongkrong bareng teman ataupun ngerjain tugas. Kopinya enak dengan pilihan menu yang beragam, harganya juga masih terjangkau. Pelayanan ramah dan cepat, bikin betah buat balik lagi. Recommended banget buat pecinta kopi di Malang!",
+        "rating": 5.0,
+        "date": "4 bulan lalu"
+      },
+      {
+        "user": "Aulya Nita",
+        "text": "didalam kopi ada serangganya (laba”) dan juga air putihnya juga terdapat kotoran,kamar mandi kotor meja dan kursi berdebu.mohon untuk kedepannya bisa diperbaik i lagi kak🙏🏻",
+        "rating": 2.0,
+        "date": "5 bulan lalu"
+      },
+      {
+        "user": "Maududi Azmi",
+        "text": "Wifi lancar, colokan aman, enak buat diskusi, yang butuh tempat buat ramean orang disini cuocok. Harga makanan minuman pas dikantong mahasiswa 🤟",
+        "rating": 5.0,
+        "date": "4 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e788360b2949d21:0x1a00237652f428c2",
+    "shop_name": "Anasera Coffee and Co.",
+    "nugas_score": 48.3,
+    "kerja_score": 27.6,
+    "nongkrong_score": 24.1,
+    "rating_avg": 4.6,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nugas.",
+    "best_for": [
+      "Nugas"
+    ],
+    "latitude": "-79.375.933",
+    "longitude": "1.126.200.738",
+    "reviews_list": [
+      {
+        "user": "Angga Bayu Setiawan",
+        "text": "suasana dan makanan nya cocok untuk beberapa orang termasuk saya dan teman-teman saya, waktu itu saya reservasi disini untuk kegiatan bukber, surpringsingly pelayanan disini sangat baik dan cepat",
+        "rating": 5.0,
+        "date": "4 bulan lalu"
+      },
+      {
+        "user": "Hamad Hawazun",
+        "text": "Barusan kemarin kesana sekalian nobar Indonesia Filipina, sayangnya kalah Indonesia ya. Wkwkwkw  First time kesini, cocok seh buat kerja, laptopan. Sayangnya, menu kopi filteran udah ga ada. Hahaha  Overall sip oke 👌",
+        "rating": 5.0,
+        "date": "setahun lalu"
+      },
+      {
+        "user": "Yuannisa Garneta",
+        "text": "minumannya banyak pilihan, rasanya juga pas, kudu coba es coklat hazelnutnya enak, tempatnya juga bisa banget dijadiin tempat kerja, nugas dll, ada spot fotonya estetik, semoga kalo pagi ada menu sarapan yang ngga cuman snack hihi",
+        "rating": 5.0,
+        "date": "2 tahun lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e7883a01625106b:0xb830284e9bab90ae",
+    "shop_name": "nowhere coffee",
+    "nugas_score": 40.0,
+    "kerja_score": 30.0,
+    "nongkrong_score": 30.0,
+    "rating_avg": 4.5,
+    "summary": "Kafe ini sedang dianalisa lebih lanjut.",
+    "best_for": [],
+    "latitude": "-79.610.134",
+    "longitude": "1.125.896.334",
+    "reviews_list": [
+      {
+        "user": "Myleenalyn",
+        "text": "Cafe satu ini berada di area kampus Universitas Negeri Malang yang tepatnya di Jl. Veteran depannya Mall Malang Town Square. Banyak mahasiswa yang \"nugas\" dan diskusi sambil menikmati menu di cafe ini. Tapi banyak juga keluarga yang membawa anak-anaknya atau mama mama yang sambil menunggu waktu untuk menjemput buah hatinya dari sekolah atau pulang sekolah mampir juga ke cafe ini. Makanannya western dan tersedia juga pastry di cafe ini. Lezat lho dan pengen lagi dan lagi ke cafe ini. Gak bakalan bosen deh...oiya musholla nya bersih dan rapi. Jadi tidak perlu takut ketinggalan waktu sholat. Ruangannya luas. Ada yang ber AC dan ada juga tanpa AC yang berada di teras depan dan halaman belakang. So, selamat menikmati suasana dan makanannya di cafe ini...",
+        "rating": 5.0,
+        "date": "Diedit seminggu lalu"
+      },
+      {
+        "user": "Bintar Putera",
+        "text": "Tempatnya berada satu komplek dengan asrama Univ. Negeri Malang. Depannya MX Mall. Konsep cukup unik. Area depan ada outdoor non smoking dan indoor smoking room (ber-AC). Di area belakang ada area outdoor tapi saya kurang tahu smoking or non-smoking. Untuk kopi saya pesan Caramel Machiato dan Kopi Gula Aren. Menurut saya rasanya biasa saja. Untuk donat, lumayan enak. Parkiran berbayar untuk mobil dan motor. Cukup luas tempat parkirnya. Pelayan cukup ramah. Saya tidak menemui pelayan yg tidak ramah.",
+        "rating": 4.0,
+        "date": "2 minggu lalu"
+      },
+      {
+        "user": "Malcolm",
+        "text": "First off all, scenery nya udah kalem banget (cocok buat kalo pengen study and chill). Makanannya yang banyak dan juga minum nya yang enak bisa bikin icebreaker waktu ngobrol bareng temen/keluarga. Overall worth it yep yep",
+        "rating": 5.0,
+        "date": "sebulan lalu"
+      }
+    ]
   },
   {
     "shop_id": "0x2e7883b410dcf27d:0x4b37a9fd29508ed6",
     "shop_name": "Janimani",
-    "latitude": "-7.9601699",
-    "longitude": "112.5993007",
-    "wifi_score": 8,
-    "socket_availability": 10,
-    "quietness": 7,
-    "coffee_quality": 7,
-    "summary": "Coffee shop dengan suasana asri ala Ubud yang sangat mendukung produktivitas karena fasilitas colokan melimpah dan lingkungan yang tenang, meski volume musik terkadang terlalu kencang.",
+    "nugas_score": 46.4,
+    "kerja_score": 21.4,
+    "nongkrong_score": 32.1,
+    "rating_avg": 4.4,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nugas.",
     "best_for": [
-      "Deep Work",
-      "Nongkrong",
-      "Meeting"
+      "Nugas"
     ],
-    "reviews_count": 28
+    "latitude": "-79.601.699",
+    "longitude": "1.125.993.007",
+    "reviews_list": [
+      {
+        "user": "Adelia Farah Kamila",
+        "text": "cafe vibe ubud yang cocok buat wfc. area indoor ber ac lengkap dengan colokan. ada satu meja besar yang bisa digunakan untuk sharing. area outdoor asri. menunya juga masih terjangkau, ada beberapa promo seperti pembelian coffee and milk based di pukul 09.00-11.00 hanya 15.000 dan itu sudah include tax which is so good sihhh, since banyak cafe lain yang harga menu masih excl tax. playlist nya oke tapi kadang volume nya terlalu kencang. ada musolla di sebelahnya karna jadi satu sama hotel ubud.",
+        "rating": 5.0,
+        "date": "2 minggu lalu"
+      },
+      {
+        "user": "Bro Yonathan Channel",
+        "text": "Tempatnya asyik buat nongkrong, nugas, sekaligus ngumpul sm tmn2. Parkirannya juga tersedia cukup besar dan free parking.  Harganya jg worth it malah cukup murah menurutku, platternya harga 25 tp isinya mantap ada 4 macam.",
+        "rating": 5.0,
+        "date": "3 bulan lalu"
+      },
+      {
+        "user": "Nadjla Shayfa",
+        "text": "Memojok dari keramaian membuat tempat ini begitu tenang dari suara bising kendaraan, hanya ada suara dari dalam coffee shop. Tempatnya jadi satu dengan hotel tapi cukup besar untuk menampung banyak orang. - Harga standard seperti coffee shop pada umumnya, sudah include pajak - penyajiannya cukup unik berbeda dengan yang lain, tapi tenang bisa refill es batunya - mushola terpisah ya, harus jalan ke hotel - toilet ada satu tapi bersih dan tidak bau",
+        "rating": 5.0,
+        "date": "4 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e7883be4e6dfe05:0x5aa33161c47b1885",
+    "shop_name": "LaLeite Coffee",
+    "nugas_score": 16.7,
+    "kerja_score": 6.7,
+    "nongkrong_score": 76.7,
+    "rating_avg": 4.8,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
+      "Nongkrong"
+    ],
+    "latitude": "-79.429.744",
+    "longitude": "112.622.731",
+    "reviews_list": [
+      {
+        "user": "Shantica Arum Ramadhani",
+        "text": "Robustanya mantap. Nendang abis!!! Sekali ke sini gak cukup. Harus berkali-kali dan bawa oleh oleh biji kopinya. Parkir luas, tempat nongkrong chill, pegawainya ramah melayani dengan sepenuh hati. Kapan-kapan mampir lagi.",
+        "rating": 5.0,
+        "date": "2 tahun lalu"
+      },
+      {
+        "user": "Poundra Windyanto",
+        "text": "LaLeite Coffee…  Menyediakan biji kopi dan benerapa alat kopi.  Biji Aceh Gayo ok 👍 Biji Kolusi Toraja 👍 Harga biji cukup bersahabat, packing dan kemasan ok ⭐️⭐️⭐️",
+        "rating": 4.0,
+        "date": "9 bulan lalu"
+      },
+      {
+        "user": "Tiya Septiana",
+        "text": "nyaman banget buat kalian yang mau kerja kelompok, ngopi\" santai👌 Disini menyediakan bean kopi nusantara👌",
+        "rating": 5.0,
+        "date": "2 tahun lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e7883e3a7ae66d9:0xa0313d9b010b23be",
+    "shop_name": "Kopi Calf Signature Soehat Malang",
+    "nugas_score": 33.3,
+    "kerja_score": 13.3,
+    "nongkrong_score": 53.3,
+    "rating_avg": 4.8,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
+      "Nongkrong"
+    ],
+    "latitude": "-79.342.981",
+    "longitude": "1.126.231.289",
+    "reviews_list": [
+      {
+        "user": "The White Cat",
+        "text": "Kalo kesini agak pagi menjelang siang masih gak begitu crowded tapi kalo sore sampe malem pasti rame banget sampe susah buat parkir terutama mobil.  Tempatnya nyaman, indoor full ac, outdoor dan ada smoking room ac. ada kursi sofa buat yg mau ngopi santai dan ada yg working space. Semuanya full colokan listrik. Wifi kenceng tapi kalo lagi rame ya agak lelet.  Pemesanan di kasir dan ambil sendiri. Harganya mid range. Untuk makanan salty menurutku, yg oke ya minumannya. Artisan milk teanya manis banget, butuh tambahan segelas es.",
+        "rating": 4.0,
+        "date": "sebulan lalu"
+      },
+      {
+        "user": "Dinny Nuari Nurlita Rochaendi",
+        "text": "Tempatnya luas banget yaa, nyaman juga buat nongki atau sekedar duduk manis sambil ngopi. Pelayanannya baik dan ramah, pesan untuk take away juga tidak nunggu lama. Nice pokoknya.",
+        "rating": 5.0,
+        "date": "seminggu lalu"
+      },
+      {
+        "user": "Arum",
+        "text": "Konsep kafenya berbeda dr kafe kebanyakan. Saya personally cocok sih.  Tempatnya luas dan padatnya nyaman, antar kursi masih ada spasi yg pas jadi nyaman deh pokoknya.  Menunya surprisingly ada magic ^^. Saya pesen itu, enak sih, lambung approved.  Streker listrik ada di mana-mana, worry freelah kalo dijadiin tempat buat nugas/kerja. Kecepatan wifinya pas kunjunganku ada dikisaran 40-45mbps [lumayan kaaan].  Cons-nya cuma 1 itupun minor aja: suhu ruang pas siang perlu didinginkan lg, soalnya rasa panasnya masih terasa~  Overall, kunjungan saya ke Calf kesannya ada hint third wave-nya gitu, tapi masih affordable~  Ohiya, depannya lgsg Gacoan + Dikichi.  manteppp sih kataku mah, yakali ga kuy ke sini gesss~",
+        "rating": 5.0,
+        "date": "3 bulan lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e7883e5723bb84b:0xec39d8fc419cfca2",
+    "shop_name": "Toko Kopi TUKU - Malang",
+    "nugas_score": 6.7,
+    "kerja_score": 20.0,
+    "nongkrong_score": 73.3,
+    "rating_avg": 4.6,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
+      "Nongkrong"
+    ],
+    "latitude": "-79.672.646",
+    "longitude": "1.126.107.493",
+    "reviews_list": [
+      {
+        "user": "Gustisa Wisnu",
+        "text": "Pertama kali singgah ke Toko Kopi TUKU Malang, suasananya bikin betah. Kopinya tentu sudah pasti konsisten nikmat. Suasananya juga nyaman banget buat nongkrong atau duduk santai. Baristanya ramah, komunikatif, dan asik✨  Ngopi di sini tuh bukan cuma sekadar minum kopi, tapi nikmatin suasana. Respect buat barista TUKU Malang!🔥 See you again, for sure.",
+        "rating": 5.0,
+        "date": "seminggu lalu"
+      },
+      {
+        "user": "Dicky Candra",
+        "text": "Toko kopi Tuku yang terbilang paling luas ini sih. Di surabaya pun gaada yg seluas ini. Enak buat nongkrong, ada jualan merchandisenya juga, yang paling penting estehtik wkwk",
+        "rating": 5.0,
+        "date": "seminggu lalu"
+      },
+      {
+        "user": "Awan Sirrus",
+        "text": "Kopi susu tetangganya best bangey, dia strong tapi masij creamy gitu sukak bangeet. Ada welcome drink nya. Dan nuansa Tuku lagi baru sih di Malang",
+        "rating": 5.0,
+        "date": "seminggu lalu"
+      }
+    ]
+  },
+  {
+    "shop_id": "0x2e7883fc32578573:0x12f26d1f7756b080",
+    "shop_name": "RILO Coffee and Space",
+    "nugas_score": 25.0,
+    "kerja_score": 25.0,
+    "nongkrong_score": 50.0,
+    "rating_avg": 4.0,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nongkrong.",
+    "best_for": [
+      "Nongkrong"
+    ],
+    "latitude": "-79.392.489",
+    "longitude": "1.126.115.599",
+    "reviews_list": [
+      {
+        "user": "Moh. Hadihabibi",
+        "text": "Tempatnya asik banget buat santai, apalagi buat yang suka ngopi sambil ngelukis kayak di foto. Suasananya nyaman, ada area outdoor yang dihiasi kaktus-kaktus gitu, jadi kelihatan estetik. …",
+        "rating": 5.0,
+        "date": "5 bulan lalu"
+      },
+      {
+        "user": "Brilliant A.",
+        "text": "lucuukk tempatnya, cocok buat nunggu kelas gt tempatnya soalnya ikut di polinemanyaa (jd view polinemaa) buat minumannya cukuo enak sih harganya jg harga mahasiswa banget!!",
+        "rating": 4.0,
+        "date": "Diedit sebulan lalu"
+      },
+      {
+        "user": "Kharisma Layar",
+        "text": "Suka donatnya 🍩!! tempatnya nyaman walaupun minimalis. Sayangnya karna rame jadi banyak pengunjung yg ninggalin sampah.. pegawainya ngga segera bersihin.. would be great kalo sama2 jaga kebersihan.. 🤍 …",
+        "rating": 4.0,
+        "date": "4 bulan lalu"
+      }
+    ]
   },
   {
     "shop_id": "0x2e7883fe5a83539f:0x396d09861e4a9afb",
     "shop_name": "Ekologie 2.0",
-    "latitude": "-7.9596386",
-    "longitude": "112.5999444",
-    "wifi_score": 9,
-    "socket_availability": 9,
-    "quietness": 8,
-    "coffee_quality": 8,
-    "summary": "Coffee shop di Malang yang sangat ramah kantong mahasiswa dengan fasilitas wifi kencang dan banyak colokan, ideal untuk produktivitas maupun sekadar berkumpul.",
+    "nugas_score": 63.3,
+    "kerja_score": 3.3,
+    "nongkrong_score": 33.3,
+    "rating_avg": 4.6,
+    "summary": "Kafe ini dianalisa oleh AI cocok untuk Nugas.",
     "best_for": [
-      "Meeting",
-      "Deep Work",
-      "Nongkrong"
+      "Nugas"
     ],
-    "reviews_count": 30
+    "latitude": "-79.596.386",
+    "longitude": "1.125.999.444",
+    "reviews_list": [
+      {
+        "user": "Ainul Yaqin",
+        "text": "Kalian perlu mampir dan nongkrong di sini. Pelayanan mas-masnya enak dan ramah. Menunya wort it dengan harga yg murah di kantong pelajar. Tempat parkirnya luas, wifinya kenceng poll. Yg aku suka di Ekologie 2 ini Minuman rempahnya Janar Rima. Pokok tempat ngopi enak di Malang.",
+        "rating": 5.0,
+        "date": "5 bulan lalu"
+      },
+      {
+        "user": "Dewi Aulia Mazidatun Nafisah",
+        "text": "sangat recommended untuk mengerjakan tugas, rapat, nongkrong santai. suasana nyaman, varian menu beragam dari minuman, sanck sampai makanan berat. wifi lancar dengan mushola dan kamar mandi yang nyaman. pelayanannya ramah.",
+        "rating": 5.0,
+        "date": "sebulan lalu"
+      },
+      {
+        "user": "ANTHOQ ULAYYAQIN",
+        "text": "Tempat yang lumayan buat nugas, wifi juga cepat, ga terlalu berisik karena bukan di jalan besar, cuma 4 kali kesini kalo pesem donat kampung selalu aja lupa, harus konfirmasi ulang 🗿",
+        "rating": 5.0,
+        "date": "2 bulan lalu"
+      }
+    ]
   }
 ]

@@ -1,32 +1,32 @@
-type Filtertype = 'all' | 'wifi' | 'quiet' | 'socket';
+type FilterType = 'all' | 'Nugas' | 'Kerja' | 'Nongkrong';
 
 interface FilterBarProps {
-    activeFilter: Filtertype;
-    onFilterChange: (filter: Filtertype) => void;
+    activeFilter: FilterType;
+    onFilterChange: (filter: FilterType) => void;
 }
 
-export default function FilterBar({ activeFilter, onFilterChange}: FilterBarProps) {
-    const filters: { id: Filtertype; label: string }[] = [
+export default function FilterBar({ activeFilter, onFilterChange }: FilterBarProps) {
+    const filters: { id: FilterType; label: string }[] = [
         { id: 'all', label: 'Semua' },
-        { id: 'wifi', label: 'Wifi Kencang 🚀' },
-        { id: 'quiet', label: 'Hening 🤫' },
-        { id: 'socket', label: 'Banyak Colokan 🔌' },
+        { id: 'Nugas', label: 'Cocok Nugas' },
+        { id: 'Kerja', label: 'Cocok Kerja' },
+        { id: 'Nongkrong', label: 'Tempat Nongkrong' },
     ];
 
     return (
-        <div className="flex gap-2 overflow-x-auto pb-4 mb-4 no-scrollbar">
+        <div className="flex justify-center gap-3 md:gap-4 mb-12 overflow-x-auto no-scrollbar py-2 px-4">
             {filters.map((f) => (
                 <button
-                key={f.id}
-                onClick={() => onFilterChange(f.id)}
-                className={`
-                    px-4 py-2 rounded-full text-sm font-medium whitespace-nowrap transition-colors
-                    ${activeFilter === f.id 
-                    ? 'bg-blue-600 text-white shadow-md' 
-                    : 'bg-white text-gray-600 border border-gray-200 hover:bg-gray-50'}
-                `}
+                    key={f.id}
+                    onClick={() => onFilterChange(f.id)}
+                    className={`
+            px-5 py-2.5 rounded-full text-xs md:text-sm font-medium transition-all duration-300 whitespace-nowrap border
+            ${activeFilter === f.id
+                            ? 'bg-coffee-dark text-white border-coffee-dark shadow-md transform scale-105'
+                            : 'bg-transparent text-gray-500 border-gray-300 hover:border-coffee-dark hover:text-coffee-dark'}
+          `}
                 >
-                {f.label}
+                    {f.label}
                 </button>
             ))}
         </div>

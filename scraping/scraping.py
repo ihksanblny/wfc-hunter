@@ -15,7 +15,7 @@ except FileNotFoundError:
     print("❌ File urls.txt tidak ditemukan! Buat file urls.txt dan isi dengan link Google Maps.")
     exit()
 
-OUTPUT_FILE = "reviews.csv"
+OUTPUT_FILE = "reviews_new.csv"
 
 options = webdriver.ChromeOptions()
 options.add_argument("--user-data-dir=C:/chrome-selenium-clean")
@@ -197,14 +197,14 @@ for i, URL in enumerate(URLS):
                 # Loop scroll secukupnya saja
                 # Kita butuh sekitar 30 review. 1x scroll biasanya load 10-20 review.
                 # Jadi 5x scroll sudah lebih dari cukup.
-                MAX_SCROLL = 5 
+                MAX_SCROLL = 10 
                 for _ in range(MAX_SCROLL): 
                     driver.execute_script("arguments[0].scrollTop = arguments[0].scrollHeight", scrollable_div)
                     time.sleep(2) 
                     
                     # Cek jumlah review yang sudah terload
                     loaded_reviews = driver.find_elements(By.XPATH, '//div[contains(@class,"jftiEf")]')
-                    if len(loaded_reviews) >= 30:
+                    if len(loaded_reviews) >= 60:
                         print(f"   🛑 Sudah terload {len(loaded_reviews)} review (Target 30), stop scrolling.")
                         break
             else:

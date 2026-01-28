@@ -1,15 +1,16 @@
 require('dotenv').config();
 const fs = require('fs');
+const path = require('path');
 const csv = require('csv-parser');
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 
 // Konfigurasi Gemini
 const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
 // Gunakan model yang stabil
-const model = genAI.getGenerativeModel({ model: "gemini-3-flash-preview" });
+const model = genAI.getGenerativeModel({ model: "gemini-1.5-flash" });
 
-const INPUT_FILE = '../scraping/reviews.csv';
-const OUTPUT_FILE = 'cafes_processed.json';
+const INPUT_FILE = path.join(__dirname, '../scraping/reviews.csv');
+const OUTPUT_FILE = path.join(__dirname, '../web/src/data/cafes_processed.json');
 
 async function main() {
     console.log("🚀 Memulai proses seeding data...");
