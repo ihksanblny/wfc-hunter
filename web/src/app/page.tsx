@@ -57,7 +57,7 @@ export default function Home() {
         : sortedCafes;
 
     return (
-        <main className="min-h-screen px-4 md:px-12 pb-20 bg-coffee-light">
+        <main className="min-h-screen px-4 md:px-12 pb-20 bg-coffee-light overflow-x-hidden">
             <div className="max-w-7xl mx-auto">
                 <Header />
 
@@ -67,7 +67,7 @@ export default function Home() {
                 )}
 
                 {/* Tools Section */}
-                <div className="mb-12 sticky top-0 z-20 bg-coffee-light/95 backdrop-blur-sm py-4 -mx-4 px-4 md:mx-0 md:px-0 transition-all">
+                <div className="mb-8 md:mb-12 sticky top-0 z-20 bg-coffee-light/95 backdrop-blur-sm py-4 -mx-4 px-4 md:mx-0 md:px-0 transition-all">
                     <SearchBar value={searchQuery} onChange={setSearchQuery} />
                     <FilterBar activeFilter={filter} onFilterChange={setFilter} />
 

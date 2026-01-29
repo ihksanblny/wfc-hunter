@@ -14,21 +14,23 @@ export default function FilterBar({ activeFilter, onFilterChange }: FilterBarPro
     ];
 
     return (
-        <div className="flex justify-center gap-3 md:gap-4 mb-12 overflow-x-auto no-scrollbar py-2 px-4">
-            {filters.map((f) => (
-                <button
-                    key={f.id}
-                    onClick={() => onFilterChange(f.id)}
-                    className={`
-            px-5 py-2.5 rounded-full text-xs md:text-sm font-medium transition-all duration-300 whitespace-nowrap border
-            ${activeFilter === f.id
-                            ? 'bg-coffee-dark text-white border-coffee-dark shadow-md transform scale-105'
-                            : 'bg-transparent text-gray-500 border-gray-300 hover:border-coffee-dark hover:text-coffee-dark'}
-          `}
-                >
-                    {f.label}
-                </button>
-            ))}
+        <div className="w-full overflow-x-auto no-scrollbar touch-pan-x">
+            <div className="flex justify-start md:justify-center gap-3 md:gap-4 mb-6 py-2 min-w-max md:min-w-0 px-1">
+                {filters.map((f) => (
+                    <button
+                        key={f.id}
+                        onClick={() => onFilterChange(f.id)}
+                        className={`
+                            px-5 py-2.5 rounded-full text-xs md:text-sm font-medium transition-all duration-300 whitespace-nowrap border shrink-0
+                            ${activeFilter === f.id
+                                ? 'bg-coffee-dark text-white border-coffee-dark shadow-md transform scale-105'
+                                : 'bg-transparent text-gray-500 border-gray-300 hover:border-coffee-dark hover:text-coffee-dark'}
+                        `}
+                    >
+                        {f.label}
+                    </button>
+                ))}
+            </div>
         </div>
     );
 }

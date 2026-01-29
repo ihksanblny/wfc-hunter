@@ -1,6 +1,6 @@
 export default function Header() {
     return (
-        <header className="bg-coffee-dark text-coffee-light py-16 px-6 rounded-b-[3rem] mb-12 relative overflow-hidden shadow-2xl mx-[-1.5rem] md:mx-[-3rem] lg:mx-[calc(-50vw+50%)]">
+        <header className="bg-coffee-dark text-coffee-light py-12 md:py-16 px-6 rounded-b-[2rem] md:rounded-b-[3rem] mb-8 md:mb-12 relative overflow-hidden shadow-2xl mx-[-1rem] md:mx-[-3rem] lg:mx-[calc(-50vw+50%)]">
             {/* Pattern Background */}
             <div className="absolute top-0 left-0 w-full h-full opacity-10 pointer-events-none">
                 <svg width="100%" height="100%">
