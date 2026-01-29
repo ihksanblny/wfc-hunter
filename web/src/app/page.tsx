@@ -9,6 +9,7 @@ import FilterBar from '@/components/FilterBar';
 import SearchBar from '@/components/SearchBar';
 import CoffeeArticles from '@/components/CoffeeArticles';
 import FeaturedCafe from '@/components/FeaturedCafe';
+import Link from "next/link";
 
 export default function Home() {
     const [filter, setFilter] = useState<'all' | 'Nugas' | 'Kerja' | 'Nongkrong'>('all');
@@ -78,6 +79,8 @@ export default function Home() {
                         {filter === 'Nongkrong' && "Menampilkan tempat dengan 30%+ review positif soal suasana & nongkrong"}
                     </p>
                 </div>
+
+
 
                 {/* Grid List (Kembali ke Grid Layout) */}
                 <div className="grid gap-8 md:grid-cols-2 lg:grid-cols-3">

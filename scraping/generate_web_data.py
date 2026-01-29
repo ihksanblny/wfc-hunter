@@ -9,6 +9,20 @@ MODEL_FILE = "svm_model.pkl"
 VECTORIZER_FILE = "tfidf_vectorizer.pkl"
 OUTPUT_JSON = "../web/src/data/cafes_processed.json"
 
+# --- MANUAL FIXES UNTUK KOORDINAT YANG SALAH DI CSV ---
+COORDINATE_FIXES = {
+    "Ada Apa Dengan Kopi (AADK) Bandung Malang - Coffee & Eatery": ("-7.9614", "112.6213"),
+    "Roketto Coffee & Co": ("-7.9424", "112.6205"),
+    "RILO Coffee and Space": ("-7.9481", "112.6174"),
+    "JOKOPI - Malang": ("-7.9426", "112.6216"),
+    "KAF Cafe": ("-7.9504", "112.6138"),
+    "nowhere coffee": ("-7.9472", "112.6165"),
+    "Toko Kopi TUKU - Malang": ("-7.9658", "112.6275"),
+    "Muraco Headquarter": ("-7.9435", "112.6198"),
+    "Ki.Rei Coffee and Eatery": ("-7.9311", "112.6220"),
+    "Nakoa": ("-7.9362", "112.6222")
+}
+
 def clean_text(text):
     """Pembersihan untuk input AI (Sangat agresif)"""
     if not isinstance(text, str): return ""
@@ -26,6 +40,27 @@ def clean_display_review(text):
     text = re.sub(r'^[^\w\s]+', '', text)
     text = "".join(c for c in text if c.isprintable())
     return text.strip()
+
+def clean_coordinate(coord, is_lat=True):
+    """Memperbaiki format koordinat yang salah (banyak titik)"""
+    if not coord or str(coord).lower() == 'nan' or coord == 0:
+        return "0"
+    
+    # Hapus semua titik
+    s = str(coord).replace('.', '')
+    
+    if not s or s == '-': return "0"
+    
+    # Logika untuk Malang: 
+    # Lat: -7.xxxx (1 digit di depan titik)
+    # Lng: 112.xxxx (3 digit di depan titik)
+    if is_lat:
+        if s.startswith('-'):
+            return s[:2] + "." + s[2:]
+        else:
+            return s[:1] + "." + s[1:]
+    else:
+        return s[:3] + "." + s[3:]
 
 def read_csv_safely(file_path):
     """Membaca CSV dengan deteksi separator yang lebih kuat dan mencegah pergeseran kolom"""
@@ -125,10 +160,17 @@ def main():
                 "date": str(row['review_date'])
             })
             
-        valid_lats = group[group['latitude'] != 0]['latitude']
-        valid_lngs = group[group['longitude'] != 0]['longitude']
-        lat = valid_lats.iloc[0] if not valid_lats.empty else 0
-        lng = valid_lngs.iloc[0] if not valid_lngs.empty else 0
+        # Cek apakah ada manual fix untuk koordinat
+        if shop_name in COORDINATE_FIXES:
+            lat, lng = COORDINATE_FIXES[shop_name]
+        else:
+            valid_lats = group[group['latitude'] != 0]['latitude']
+            valid_lngs = group[group['longitude'] != 0]['longitude']
+            lat_raw = valid_lats.iloc[0] if not valid_lats.empty else 0
+            lng_raw = valid_lngs.iloc[0] if not valid_lngs.empty else 0
+            
+            lat = clean_coordinate(lat_raw, is_lat=True)
+            lng = clean_coordinate(lng_raw, is_lat=False)
             
         cafes.append({
             "shop_id": str(shop_id),
@@ -139,8 +181,8 @@ def main():
             "rating_avg": round(group['rating'].mean(), 1),
             "summary": f"Kafe ini dianalisa oleh AI cocok untuk {', '.join(best_for)}." if best_for else "Kafe ini sedang dianalisa lebih lanjut.",
             "best_for": best_for,
-            "latitude": str(lat) if pd.notna(lat) and str(lat).lower() != 'nan' else "0",
-            "longitude": str(lng) if pd.notna(lng) and str(lng).lower() != 'nan' else "0",
+            "latitude": lat,
+            "longitude": lng,
             "reviews_list": reviews_list
         })
     
